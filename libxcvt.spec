@@ -4,7 +4,7 @@
 
 Summary:	VESA CVT standard timing modelines generator
 Name:		libxcvt
-Version:	0.1.1
+Version:	0.1.2
 Release:	1
 License:	MIT
 Group:		System/X11
